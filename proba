@@ -1,4 +1,4 @@
-class Proba {
+class Proba extends Main {
 a
 b
 
